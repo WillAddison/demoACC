@@ -213,6 +213,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Quick_field_change_on_Account__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.Rating</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -544,6 +549,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Case.Description</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Case.Documents_submitted__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
